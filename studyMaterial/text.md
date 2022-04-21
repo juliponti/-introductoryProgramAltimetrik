@@ -15,8 +15,9 @@ Once you install git, it gives you access to a git terminal and that is the one 
 
 it tells you which version of git do you have
 
-> git help
 
+> git help
+ 
 It gives you information about commands
 
 > git init
@@ -35,7 +36,7 @@ this command will push the changes to the remote repository
 
 if we have already created a repository with files on Github we can clone it in our local folder using this command
 
-When we are working in our code editor and we want to save the changes of our files not only locally (ctrl + s) but also remotely these are the commands we should use:
+### When we are working in our code editor and we want to save the changes of our files not only locally (ctrl + s) but also remotely these are the commands we should use:
 
 > git status
 
@@ -53,16 +54,16 @@ this command is the same as before but using the "." will add ALL the files to t
 
 this command will work as a "label" to the box in which we should describe briefly what changes we made. When it's the first commit it usually the commit says that, if it's not we can use different keywords to begin such as:
 
-Add
-Create
-Refactor
-Fix
-Release
-Document
-Modify
-Update
-Remove
-Delete
+* Add
+* Create
+* Refactor
+* Fix
+* Release
+* Document
+* Modify
+* Update
+* Remove
+* Delete
 
 etc...
 
@@ -86,9 +87,8 @@ this command saves temporarily the changes that you have made in the code that y
 
 with this command, the changes that you saved temporarily with git stash will appear again on your code
 
----
 
-To move through different commits we use these commands
+### To move through different commits we use these commands:
 
 > git reset --mixed f52f3da
 
@@ -164,7 +164,7 @@ Every Git repository has a .git/hooks folder with a script for each hook you can
 
 Some of these hooks are:
 
-**pre-commit**: check the commit message for spelling errors
-**pre-recieve**: enforce project coding standards
-**post-commit**: email/SMS team members of a new commit
-**posr-recieve**: push the code to production.
+* **pre-commit**: check the commit message for spelling errors
+* **pre-recieve**: enforce project coding standards
+* **post-commit**: email/SMS team members of a new commit
+* **posr-recieve**: push the code to production.
