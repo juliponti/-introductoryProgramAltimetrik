@@ -7,17 +7,14 @@ To synchronize these repositories we use a few commands that I will explain late
 
 Once you install git, it gives you access to a git terminal and that is the one we are going to use to apply the commands.
 
-
-
 # Basic commands
 
 > git version
 
 it tells you which version of git do you have
 
-
 > git help
- 
+
 It gives you information about commands
 
 > git init
@@ -54,16 +51,16 @@ this command is the same as before but using the "." will add ALL the files to t
 
 this command will work as a "label" to the box in which we should describe briefly what changes we made. When it's the first commit it usually the commit says that, if it's not we can use different keywords to begin such as:
 
-* Add
-* Create
-* Refactor
-* Fix
-* Release
-* Document
-* Modify
-* Update
-* Remove
-* Delete
+- Add
+- Create
+- Refactor
+- Fix
+- Release
+- Document
+- Modify
+- Update
+- Remove
+- Delete
 
 etc...
 
@@ -87,7 +84,6 @@ this command saves temporarily the changes that you have made in the code that y
 
 with this command, the changes that you saved temporarily with git stash will appear again on your code
 
-
 ### To move through different commits we use these commands:
 
 > git reset --mixed f52f3da
@@ -110,8 +106,6 @@ we go to a specific commit and we can restore the files
 
 we use this command when we want to erase all the changes before doing a commit
 
-
-
 # Git branches
 
 > git branch nombreRama
@@ -130,7 +124,6 @@ if we want to merge a branch we don't have to be in it, for example, if we have 
 
 > git branch -d nombreRama
 > we use this command to delete a branch
-
 
 # Tags
 
@@ -156,15 +149,13 @@ does a new tag based on the previous commit. In this case for example uses the "
 
 it shows information about the tag
 
-
 ## Git hooks
 
-Gits hooks are scripts that git executes before or after events such as **commit** and **push**. They are a built-in feature which means that there is no need to download anything, they are run locally.
+Gits hooks are scripts, a sequence of instructions that is interpreted by another program rather than by the computer processor, that git executes before or after events such as **commit** and **push**. They are a built-in feature which means that there is no need to download anything, they are run locally.
 Every Git repository has a .git/hooks folder with a script for each hook you can attach to. You're free to change or update these scripts as necessary, and Git will execute them when those events occur.
-
 Some of these hooks are:
 
-* **pre-commit**: check the commit message for spelling errors
-* **pre-recieve**: enforce project coding standards
-* **post-commit**: email/SMS team members of a new commit
-* **posr-recieve**: push the code to production.
+- **pre-commit**: check the commit message for spelling errors
+- **pre-recieve**: enforce project coding standards
+- **post-commit**: email/SMS team members of a new commit
+- **posr-recieve**: push the code to production.
