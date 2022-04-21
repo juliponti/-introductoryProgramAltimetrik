@@ -7,7 +7,7 @@ To synchronize these repositories we use a few commands that I will explain late
 
 Once you install git, it gives you access to a git terminal and that is the one we are going to use to apply the commands.
 
----
+
 
 # Basic commands
 
@@ -88,7 +88,6 @@ with this command, the changes that you saved temporarily with git stash will ap
 
 ---
 
-
 To move through different commits we use these commands
 
 > git reset --mixed f52f3da
@@ -111,7 +110,7 @@ we go to a specific commit and we can restore the files
 
 we use this command when we want to erase all the changes before doing a commit
 
----
+
 
 # Git branches
 
@@ -132,7 +131,6 @@ if we want to merge a branch we don't have to be in it, for example, if we have 
 > git branch -d nombreRama
 > we use this command to delete a branch
 
----
 
 # Tags
 
@@ -158,7 +156,6 @@ does a new tag based on the previous commit. In this case for example uses the "
 
 it shows information about the tag
 
----
 
 ## Git hooks
 
