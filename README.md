@@ -1,1 +1,1 @@
-# -introductoryProgramAltimetrik
+# introductoryProgramAltimetrik
