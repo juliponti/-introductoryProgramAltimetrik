@@ -88,7 +88,8 @@ with this command, the changes that you saved temporarily with git stash will ap
 
 ---
 
-# To move through different commits we use these commands
+
+To move through different commits we use these commands
 
 > git reset --mixed f52f3da
 
