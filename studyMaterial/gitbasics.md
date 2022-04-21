@@ -62,8 +62,6 @@ this command will work as a "label" to the box in which we should describe brief
 - Remove
 - Delete
 
-etc...
-
 > git push origin nameOftheBranch
 
 this command will push the "labeled box" to the remote repository and place it into the branch we specify.
