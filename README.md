@@ -1,3 +1,3 @@
-# introductoryProgramAltimetrik
-this is a change I made remotely
-another test change
+# Introductory Program Altimetrik
+
+This is a collection of documents, code and exercises for the bootcamp "Become a Frontend Developer with Altimetrik"
