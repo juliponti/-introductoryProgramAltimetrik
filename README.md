@@ -1,6 +1,6 @@
 # Introductory Program Altimetrik
 
-This is a collection of documents, notes and information for the bootcamp "Become a Frontend Developer with Altimetrik".
+This is my collection of documents, notes and information for the bootcamp "Become a Frontend Developer with Altimetrik" in which I am currently participating.
 
 [Handybook](https://github.com/juliponti/introductory-program-altimetrik/blob/main/studyMaterial/text.md)
 
