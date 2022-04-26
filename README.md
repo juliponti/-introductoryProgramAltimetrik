@@ -33,3 +33,30 @@ This is a collection of documents, notes and information for the bootcamp "Becom
 * Syntax
 * Git Squash
 * Bibliography
+### JavaScript: Syntax and Basic Constructs
+ * What is JavaScript?
+   * Internal scripts
+   * External scripts
+ * What can in-browser JavaScript do?
+ * Code Structure
+    * Statements
+    * Semicolons
+    * Comments
+ * Variables 
+ * Data Types
+    * Strings
+    * Numbers
+    * Booleans
+    * Undefined
+    * Null
+ * Interactions: alert, prompt, confirm
+ * Type Conversions
+    * String conversion
+    * Numeric conversion
+    * Boolean conversion
+ * Operators
+    * Assignment operators
+    * Arithmetic Operators
+    * Logical operators
+* Bibliography
+
