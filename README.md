@@ -67,3 +67,9 @@ This is my collection of documents, notes and information for the bootcamp "Beco
  * Meta-tags
  * XHTML | HTML vs XHTML
  * Input & Input types
+### Data Attributes
+* HTML | data-* Attributes
+* Context
+* Syntax
+* Styling with data attributes
+* Bibliography
