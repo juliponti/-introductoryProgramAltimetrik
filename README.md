@@ -59,4 +59,11 @@ This is my collection of documents, notes and information for the bootcamp "Beco
     * Arithmetic Operators
     * Logical operators
 * Bibliography
-
+### What is HTML? | meta-tags | Input types | Difference between HTML and XHTML
+ * What is HTML?
+ * Anatomy of an HTML element
+   * Nesting elements 
+ * Anatomy of an HTML document 
+ * Meta-tags
+ * XHTML | HTML vs XHTML
+ * Input & Input types
