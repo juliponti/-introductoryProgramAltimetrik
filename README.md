@@ -73,3 +73,17 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * Syntax
 * Styling with data attributes
 * Bibliography
+### Accessibility | Semantic HTML
+ * Accessibility 
+ * Semantic HTML
+ * Landmarks 
+ * Buttons & Links
+ * Role, Name & Value 
+ * Color contrast
+ * Color meaning
+ * Meaningful & Decoratives Images
+ * Visual Focus 
+ * Skip Links
+ * Autocomplete
+ * Errors 
+ * Bibliography
