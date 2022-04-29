@@ -96,4 +96,24 @@ This is my collection of documents, notes and information for the bootcamp "Beco
  * HTML Documnet Structure 
  * DOM and it's relation with SEO
  * Bibliography
+###  CSS general knowledge | Specificity | Box Model 
+ * CSS
+ * Adding CSS to our document
+ * Syntax
+ * Selectors
+   * Simple selectors
+   * Combinator selectors 
+   * Pseudo-class selectors 
+   * Pseudo-elements selectors 
+   * Attribute selectors 
+* Specificity
+   * The cascade
+   * Specificity Hierarchy 
+* Inheritance
+* !Important
+* Box Model 
+  * Block and inline boxes
+  * Width and Height of an Element
+* Bibliography  
+ 
 
