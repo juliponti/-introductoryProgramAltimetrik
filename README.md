@@ -87,3 +87,13 @@ This is my collection of documents, notes and information for the bootcamp "Beco
  * Autocomplete
  * Errors 
  * Bibliography
+### SEO | DOM
+ * SEO
+ * How does SEO works? 
+ * SEO on-page
+ * SEO User Experience
+ * DOM
+ * HTML Documnet Structure 
+ * DOM and it's relation with SEO
+ * Bibliography
+
