@@ -58,6 +58,14 @@ This is my collection of documents, notes and information for the bootcamp "Beco
     * Assignment operators
     * Arithmetic Operators
     * Logical operators
+* Conditionals
+* Ternary Operator
+* Loops
+  * For
+  * While
+  * Do..While
+* Break Statement
+* Switch Statement
 * Bibliography
 ### What is HTML? | meta-tags | Input types | Difference between HTML and XHTML
  * What is HTML?
@@ -72,9 +80,13 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * Context
 * Syntax
 * Styling with data attributes
+* E2E testing
 * Bibliography
 ### Accessibility | Semantic HTML
  * Accessibility 
+ * Disability Categories
+ * POUR | Web Accessibility
+ * Responsabilities by project role
  * Semantic HTML
  * Landmarks 
  * Buttons & Links
@@ -86,14 +98,18 @@ This is my collection of documents, notes and information for the bootcamp "Beco
  * Skip Links
  * Autocomplete
  * Errors 
+ * Lighthouse Accessibility Scoring
  * Bibliography
 ### SEO | DOM
  * SEO
  * How does SEO works? 
+ * Keyword Geotagging
  * SEO on-page
  * SEO User Experience
  * DOM
- * HTML Documnet Structure 
+ * HTML Document Structure 
+ * DOM VS HTML
+ * DOM & JavaScript
  * DOM and it's relation with SEO
  * Bibliography
 ###  CSS general knowledge | Specificity | Box Model 
@@ -111,9 +127,21 @@ This is my collection of documents, notes and information for the bootcamp "Beco
    * Specificity Hierarchy 
 * Inheritance
 * !Important
+* CSS Reset & Normalize
 * Box Model 
   * Block and inline boxes
   * Width and Height of an Element
 * Bibliography  
+### Hoisting | Scope | Strict
+* Hoisting
+   * Function hoisting
+   * Variable hoisting 
+* Temporal Dead Zone (TDZ)
+* Scope
+   * Block Scope
+   * Function Scope
+   * Global Scope
+* Strict javaScript
+* Bibliography
  
 
