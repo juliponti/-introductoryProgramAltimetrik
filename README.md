@@ -67,6 +67,17 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * Break Statement
 * Switch Statement
 * Bibliography
+### Hoisting | Scope | Strict
+* Hoisting
+   * Function hoisting
+   * Variable hoisting 
+* Temporal Dead Zone (TDZ)
+* Scope
+   * Block Scope
+   * Function Scope
+   * Global Scope
+* Strict javaScript
+* Bibliography
 ### What is HTML? | meta-tags | Input types | Difference between HTML and XHTML
  * What is HTML?
  * Anatomy of an HTML element
@@ -132,16 +143,19 @@ This is my collection of documents, notes and information for the bootcamp "Beco
   * Block and inline boxes
   * Width and Height of an Element
 * Bibliography  
-### Hoisting | Scope | Strict
-* Hoisting
-   * Function hoisting
-   * Variable hoisting 
-* Temporal Dead Zone (TDZ)
-* Scope
-   * Block Scope
-   * Function Scope
-   * Global Scope
-* Strict javaScript
-* Bibliography
+### CSS | Media Queries | em, rem and px
+* Media Queries
+   * Media Types
+* Mobile First
+  * Another breaking points
+  * Typical Device Breakpoints
+  * Orientation: Portrait / Landscape
+  * Hide Elements 
+* CSS Sizing
+  *  Em unit
+  *  Rem unit
+* The Recommended Settings
+* Bibliography   
+    
  
 
