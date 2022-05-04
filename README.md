@@ -13,7 +13,7 @@ This is my collection of documents, notes and information for the bootcamp "Beco
    * Scrum artifacts
    * Scrum events
    * Scrum project management
-### Git (branch, tags and commits, stash command and hooks)
+### Git 
 * What is Git?
 * Basic Commands
 * Git branches
@@ -78,7 +78,7 @@ This is my collection of documents, notes and information for the bootcamp "Beco
    * Global Scope
 * Strict javaScript
 * Bibliography
-### What is HTML? | meta-tags | Input types | Difference between HTML and XHTML
+### HTML
  * What is HTML?
  * Anatomy of an HTML element
    * Nesting elements 
@@ -156,6 +156,14 @@ This is my collection of documents, notes and information for the bootcamp "Beco
   *  Rem unit
 * The Recommended Settings
 * Bibliography   
-    
+### CSS | Layout | Positioning
+* Layout
+* Floats
+* Positioning
+   * Position Static
+   * Position Relative
+   * Position Absolute
+   * Position Sticky
+* Bibliography  
  
 
