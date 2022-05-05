@@ -165,5 +165,27 @@ This is my collection of documents, notes and information for the bootcamp "Beco
    * Position Absolute
    * Position Sticky
 * Bibliography  
- 
+### CSS Grid | Flexbox
+* Grid
+* Grid Elements
+* Grid columns, rows and gaps
+* Grid Lines
+* Grid Properties
+* Flexbox Layout
+* Flexbox Elements
+  * Flex Containers
+    * Flex-direction
+    * Flex-wrap
+    * Flex-flow
+    * Justify-content
+    * Align-items
+    * Align-content 
+  * Flex Items
+    * order
+    * flex-grow
+    * flex-shrink
+    * flex-basis
+    * flex
+    * align-self
+* Bibliography     
 
