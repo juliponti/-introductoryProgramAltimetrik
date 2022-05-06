@@ -195,3 +195,15 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * Materialize CSS
   * Adventages
 * Bibliography   
+### CSS Preprocessors | Sass
+* Preprocessors
+* Sass
+* How it works?
+* Variables
+* Nesting
+* Partials
+* Modules
+* Mixins
+* Extend/Inheritance
+* Operators
+* Bibliography 
