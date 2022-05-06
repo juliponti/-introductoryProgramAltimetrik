@@ -207,3 +207,9 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * Extend/Inheritance
 * Operators
 * Bibliography 
+### CSS Methodologies | OOCSS | BEM | SMACSS
+* CSS Methodologies
+* OOCSS
+* BEM
+* SMACSS
+* Bibliography
