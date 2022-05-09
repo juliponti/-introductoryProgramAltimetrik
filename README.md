@@ -78,6 +78,16 @@ This is my collection of documents, notes and information for the bootcamp "Beco
    * Global Scope
 * Strict javaScript
 * Bibliography
+### Fetch API | Ajax (XHR)
+* Ajax
+  * Native Methods
+  * Extern Libraries
+* APIs
+* XHR
+  * [Example](https://github.com/juliponti/introductory-program-altimetrik/commit/66c4cb0297a2b9216d3ec577529520507b4a093e) 
+* API Fetch
+  * [Example](https://github.com/juliponti/introductory-program-altimetrik/commit/a87a16ea3ef16492d5927cfa42edfa9a38fc865c)
+* Bibliography
 ### HTML
  * What is HTML?
  * Anatomy of an HTML element
