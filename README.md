@@ -148,7 +148,15 @@ This is my collection of documents, notes and information for the bootcamp "Beco
    * Session Storage
      * [Example](https://github.com/juliponti/introductory-program-altimetrik/blob/main/Storage/Session%20Storage/index.html) 
    * Storage Event
- * Bibliography    
+ * Bibliography
+### HTTP | Response Codes | Session Managament
+* HTTP
+  * Response Codes
+* Session Management
+  * Session tokens
+  * Implementation
+  * Token-Based Authentication VS Session and Cookie-Based Authentication
+* Bibliography     
 ###  CSS general knowledge | Specificity | Box Model 
  * CSS
  * Adding CSS to our document
