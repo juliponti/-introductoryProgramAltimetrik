@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cookies</title>
+  </head>
+  <body>
+    <button id="create">Create</button>
+    <button id="show">Show</button>
+    <button id="modify">Modify</button>
+    <button id="delete">Delete</button>
+
+    <script>
+      document.getElementById("create").addEventListener("click", create);
+      document.getElementById("show").addEventListener("click", show);
+      document.getElementById("modify").addEventListener("click", modify);
+      document.getElementById("delete").addEventListener("click", remove);
+
+      function create() {
+        document.cookie =
+          "user=julieta; expires=Thu, 16 Jun 2022 12:00:00 UTC; path=/";
+        /* we have to specify: property=value of what we want to save; when the cookie will expire ;
+       and the path where we want to save the cookie  */
+      }
+
+      function show() {
+        alert(document.cookie);
+      }
+
+      function modify() {
+        document.cookie =
+          "user=julieta123; expires=Thu, 16 Jun 2022 12:00:00 UTC; path=/";
+      }
+
+      function remove() {
+        document.cookie =
+          "user=julieta123; expires=Thu, 16 Jun 2021 12:00:00 UTC; path=/";
+      }
+
+      // Open live server > Inspect > Application > Cookies > There you can see the changes while pressing the buttons
+      /* if you open this page in a new tab the data will be saved and even if you close the browser
+      will only be deleted when you press the delete button or when the expiration date */
+    </script>
+  </body>
+</html>

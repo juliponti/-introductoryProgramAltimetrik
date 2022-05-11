@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Local Storage Example</title>
+  </head>
+  <body>
+    <button id="create">Create</button>
+    <button id="show">Show</button>
+    <button id="modify">Modify</button>
+    <button id="delete">Delete</button>
+
+    <script>
+      document.getElementById("create").addEventListener("click", create);
+      document.getElementById("show").addEventListener("click", show);
+      document.getElementById("modify").addEventListener("click", modify);
+      document.getElementById("delete").addEventListener("click", remove);
+
+      function create() {
+        localStorage.setItem("user", "julieta");
+        localStorage.setItem("email", "test.email@gmail.com");
+      }
+
+      function show() {
+        alert(
+          "Usuario: " +
+            localStorage.getItem("user") +
+            " Correo: " +
+            localStorage.getItem("email")
+        );
+      }
+
+      function modify() {
+        localStorage.setItem("user", "julieta123");
+        localStorage.setItem("email", "newemail@gmail.com");
+      }
+
+      function remove() {
+        localStorage.removeItem("user");
+        localStorage.removeItem("email");
+      }
+
+      // Open live server > Inspect > Application > Storage > Local Storage > There you can see the changes while pressing the buttons
+      // if you open this page in a new tab the data will be saved and even if you close the browser
+    </script>
+  </body>
+</html>

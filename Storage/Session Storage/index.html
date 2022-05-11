@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Session Storage Example</title>
+  </head>
+  <body>
+    <button id="create">Create</button>
+    <button id="show">Show</button>
+    <button id="modify">Modify</button>
+    <button id="delete">Delete</button>
+
+    <script>
+      document.getElementById("create").addEventListener("click", create);
+      document.getElementById("show").addEventListener("click", show);
+      document.getElementById("modify").addEventListener("click", modify);
+      document.getElementById("delete").addEventListener("click", remove);
+
+      function create() {
+        sessionStorage.setItem("user", "julieta");
+        sessionStorage.setItem("email", "test.email@gmail.com");
+      }
+
+      function show() {
+        alert(
+          "Usuario: " +
+            sessionStorage.getItem("user") +
+            " Correo: " +
+            sessionStorage.getItem("email")
+        );
+      }
+
+      function modify() {
+        sessionStorage.setItem("user", "julieta123");
+        sessionStorage.setItem("email", "newemail@gmail.com");
+      }
+
+      function remove() {
+        sessionStorage.removeItem("user");
+        sessionStorage.removeItem("email");
+      }
+
+      // Open live server > Inspect > Application > Storage > Session Storage > There you can see the changes while pressing the buttons
+      // if you open this page in a new tab the data won't appear because it was erased
+    </script>
+  </body>
+</html>
