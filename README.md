@@ -133,6 +133,19 @@ This is my collection of documents, notes and information for the bootcamp "Beco
  * DOM & JavaScript
  * DOM and it's relation with SEO
  * Bibliography
+### Cookies | Local Storage | Session Storage
+ * Cookies
+   * How do cookies work?
+   * What are cookies used for? 
+   * Types of cookies 
+   * Drawbacks of cookies 
+   * First-Party vs Third-Party 
+   * Cookies Management 
+ * Local Storage vs Session Storage
+   * Local Storage
+   * Session Storage
+   * Storage Event
+ * Bibliography    
 ###  CSS general knowledge | Specificity | Box Model 
  * CSS
  * Adding CSS to our document
