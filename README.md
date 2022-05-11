@@ -141,9 +141,12 @@ This is my collection of documents, notes and information for the bootcamp "Beco
    * Drawbacks of cookies 
    * First-Party vs Third-Party 
    * Cookies Management 
+   * [Example](https://github.com/juliponti/introductory-program-altimetrik/blob/main/Storage/Cookies/index.html)
  * Local Storage vs Session Storage
    * Local Storage
+     * [Example](https://github.com/juliponti/introductory-program-altimetrik/blob/main/Storage/Local%20Storage/index.html) 
    * Session Storage
+     * [Example](https://github.com/juliponti/introductory-program-altimetrik/blob/main/Storage/Session%20Storage/index.html) 
    * Storage Event
  * Bibliography    
 ###  CSS general knowledge | Specificity | Box Model 
