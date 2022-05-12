@@ -163,6 +163,12 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * HTTPS' relevance
 * Best practices when implementing HTTPS
 * Bibliography
+### CORS | JSONP
+* Introduction
+* Cross-Origin Resource Sharing (CORS)
+* The definition of 'origin'
+* JavaScript with Padding (JSONP)
+* Bibliography
 ###  CSS general knowledge | Specificity | Box Model 
  * CSS
  * Adding CSS to our document
