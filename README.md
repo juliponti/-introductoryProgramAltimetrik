@@ -161,6 +161,7 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * What is HTTPS?
 * How does HTTPS work?
 * HTTPS' relevance
+* Best practices when implementing HTTPS
 * Bibliography
 ###  CSS general knowledge | Specificity | Box Model 
  * CSS
