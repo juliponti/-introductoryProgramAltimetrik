@@ -156,7 +156,12 @@ This is my collection of documents, notes and information for the bootcamp "Beco
   * Session tokens
   * Implementation
   * Token-Based Authentication VS Session and Cookie-Based Authentication
-* Bibliography     
+* Bibliography  
+### HTTPS
+* What is HTTPS?
+* How does HTTPS work?
+* HTTPS' relevance
+* Bibliography
 ###  CSS general knowledge | Specificity | Box Model 
  * CSS
  * Adding CSS to our document
