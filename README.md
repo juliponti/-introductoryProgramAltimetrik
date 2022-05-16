@@ -169,6 +169,23 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * The definition of 'origin'
 * JavaScript with Padding (JSONP)
 * Bibliography
+### JSON Web Token
+* Introduction
+* JWT Life Cycle
+* Benefits
+* Bibliography
+### SSO | OAuth 2.0
+* What is SSO?
+* Features
+* How does SSO work?
+* Types of SSO
+* Advantages and Disadvantages
+* OAuth 2.0
+  * How does OAuth work?
+  * OAuth 2.0 Popular Flows
+  * Advantages and Disadvantages
+* Bibliography   
+
 ###  CSS general knowledge | Specificity | Box Model 
  * CSS
  * Adding CSS to our document
