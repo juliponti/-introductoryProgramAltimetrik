@@ -88,6 +88,10 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * API Fetch
   * [Example](https://github.com/juliponti/introductory-program-altimetrik/commit/a87a16ea3ef16492d5927cfa42edfa9a38fc865c)
 * Bibliography
+### Events | Events Bubbling
+* Events
+* Events Bubbling
+* Bibliography 
 ### HTML
  * What is HTML?
  * Anatomy of an HTML element
