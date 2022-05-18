@@ -92,6 +92,11 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * Events
 * Events Bubbling
 * Bibliography 
+### OOP: Object Orientation Programming 
+* Concept
+* Objects
+* Useful Keywords: Get, Set, This
+* Bibliography
 ### HTML
  * What is HTML?
  * Anatomy of an HTML element
