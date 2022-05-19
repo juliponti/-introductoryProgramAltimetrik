@@ -95,7 +95,17 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 ### OOP: Object Orientation Programming 
 * Concept
 * Objects
+* Classes and Instances
 * Useful Keywords: Get, Set, This
+* Bibliography
+### SOLID Principles
+* Introduction
+* Single Responsability principle
+* Open-Closed principle
+* Liskov Substitution principle
+* Interface Segregation principle
+* Dependency Inversion principle
+* Conclusion
 * Bibliography
 ### HTML
  * What is HTML?
