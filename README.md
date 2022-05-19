@@ -107,6 +107,11 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * Dependency Inversion principle
 * Conclusion
 * Bibliography
+### Inheritance | Prototype | Prototype Inheritance
+* Inheritance
+* Prototype, inheritance and prototype chain
+* Using prototypes in JavaScript
+* Bibliography
 ### HTML
  * What is HTML?
  * Anatomy of an HTML element
