@@ -111,7 +111,12 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * Inheritance
 * Prototype, inheritance and prototype chain
 * Using prototypes in JavaScript
+* Prototype-based and Class-based
 * Bibliography
+### Encapsulation | Polymorphism
+* Encapsulation
+* Polymorphism
+* Bibliograpy
 ### HTML
  * What is HTML?
  * Anatomy of an HTML element
