@@ -117,6 +117,16 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * Encapsulation
 * Polymorphism
 * Bibliograpy
+### Closures
+* Introduction
+  * Lexical Enviroment
+  * Garbage Collection
+* Using Closures
+  * Object Data Privacy
+  *  Partially Applied Functions (and Factories)
+* IIFE
+  *  Use cases
+* Bibliography  
 ### HTML
  * What is HTML?
  * Anatomy of an HTML element
