@@ -236,6 +236,11 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * How does DoS attack work?
 * How can you tell if a computer is experiencing a DoS attack?
 * Bibliography
+### Brute Force
+* What is Bruce Force Attacks?
+* Types of Bruce Force Attacks
+* How to prevent Brute Force Attacks
+* Bibliography
 ###  CSS general knowledge | Specificity | Box Model 
  * CSS
  * Adding CSS to our document
