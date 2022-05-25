@@ -122,8 +122,11 @@ This is my collection of documents, notes and information for the bootcamp "Beco
   * Lexical Enviroment
   * Garbage Collection
 * Using Closures
+  * [Example](https://github.com/juliponti/introductory-program-altimetrik/blob/main/Closures/closures.js) 
   * Object Data Privacy
-  *  Partially Applied Functions (and Factories)
+    * [Example](https://github.com/juliponti/introductory-program-altimetrik/blob/main/Closures/object-data-privacy.js)
+  * Partially Applied Functions (and Factories)
+    * [Example](https://github.com/juliponti/introductory-program-altimetrik/blob/main/Closures/partial-applied-function.js)
 * IIFE
   *  Use cases
 * Bibliography  
@@ -224,7 +227,10 @@ This is my collection of documents, notes and information for the bootcamp "Beco
   * OAuth 2.0 Popular Flows
   * Advantages and Disadvantages
 * Bibliography   
-
+### OWASP 
+* Introductiin
+* Top 10 guidelines
+* Bibliography
 ###  CSS general knowledge | Specificity | Box Model 
  * CSS
  * Adding CSS to our document
