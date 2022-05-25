@@ -231,6 +231,11 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * Introductiin
 * Top 10 guidelines
 * Bibliography
+### DoS
+* What it DoS?
+* How does DoS attack work?
+* How can you tell if a computer is experiencing a DoS attack?
+* Bibliography
 ###  CSS general knowledge | Specificity | Box Model 
  * CSS
  * Adding CSS to our document
