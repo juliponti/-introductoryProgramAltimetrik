@@ -241,6 +241,22 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * Types of Bruce Force Attacks
 * How to prevent Brute Force Attacks
 * Bibliography
+### XSS
+* What is cross-site scripting (XSS)?
+* How does XSS work?
+* Types of XSS attacks
+  * Reflected XSS
+  * Stored XSS 
+  * DOM-based XSS
+* How to prevent XSS attacks
+* Bibliography
+### Validation
+* What Is Security Control Validation?
+* How Security Control Validation Is Performed?
+* Client-side form validation
+   * Form Validation
+* Validating forms using JavaScript
+* Bibliography 
 ###  CSS general knowledge | Specificity | Box Model 
  * CSS
  * Adding CSS to our document
