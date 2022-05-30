@@ -257,6 +257,12 @@ This is my collection of documents, notes and information for the bootcamp "Beco
    * Form Validation
 * Validating forms using JavaScript
 * Bibliography 
+### MFA
+* Multi-Factor Authentication
+* How does MFA work?
+* Types of MFA methods
+* Difference between MFA and 2FA
+* Bibliography
 ###  CSS general knowledge | Specificity | Box Model 
  * CSS
  * Adding CSS to our document
