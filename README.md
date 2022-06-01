@@ -130,6 +130,11 @@ This is my collection of documents, notes and information for the bootcamp "Beco
 * IIFE
   *  Use cases
 * Bibliography  
+### Promises
+  * Introduction
+  * JavaScript promise chaining
+  * JavaScript promise methods
+  * Bibliography
 ### HTML
  * What is HTML?
  * Anatomy of an HTML element
