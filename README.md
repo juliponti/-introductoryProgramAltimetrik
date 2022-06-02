@@ -365,3 +365,9 @@ This is my collection of documents, notes and information for the bootcamp "Beco
   * Introduction
   * Frequently used new features
   * Bibliography
+### Async await
+  * Async
+  * Await
+  * Error handling
+  * Benefits
+  * Bibliography
